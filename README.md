@@ -17,7 +17,8 @@ The analysis found a strong correlation between vacation hours and bonuses that 
 
 Based on the analysis, it can be concluded that there is a positive relationship between annual leave and bonus payments. The analysis clearly advises the company to evaluate its vacation hours policy, since the relationship between performance and bonuses is quite strong. This will also help improve employee motivation and the quality of their work.Further investigations and adjustments based on these findings can contribute to the overall success and well-being of the workforce.
 
-<img width="599" alt="Screenshot 2024-05-15 at 23 11 45" src="https://github.com/Marikalis/AdventureWorks-Visualisations/assets/63310952/1bb9858e-fafe-4703-ae5e-affccbf8fb6b">
+![leave-bonus](https://github.com/Marikalis/AdventureWorks-Visualisations/assets/63310952/1b4acc70-5882-4f7f-93fa-d86c18794d1a)
+
 
 ## Stores-Employees-Revenue.ipynb
 
@@ -43,4 +44,5 @@ This indicates that there is a synergistic effect between store size and staffin
 
 To put it simply, the analysis shows that bigger stores with more employees tend to make more money. This means that investing in making stores larger and hiring more staff can help businesses earn more profit. Understanding this link is crucial for retailers to make smart decisions about how they run their stores, where they put their money, and how they can make the most sales. Exploring other factors like where stores are located, what they sell, and how they advertise could also give businesses more clues about how to make even more money.
 
-<img width="736" alt="Screenshot 2024-05-15 at 23 12 52" src="https://github.com/Marikalis/AdventureWorks-Visualisations/assets/63310952/6aaca2d4-f554-47b3-b1a3-437fc8394288">
+![stores](https://github.com/Marikalis/AdventureWorks-Visualisations/assets/63310952/adfbba1c-d93e-447b-8342-2b69cb303d22)
+
