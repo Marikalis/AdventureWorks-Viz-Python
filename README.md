@@ -1,4 +1,4 @@
-# AdventureWorks-Visualisations
+# AdventureWorks-Viz-Python
 Data Analysis based on AdventureWorks database.
 
 ## Leave-Bonus.ipynb
